@@ -21,12 +21,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    // Component.Divider(),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.Divider(),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Most recent",
       limit: 4
