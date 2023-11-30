@@ -4,7 +4,7 @@ import { SimpleSlug } from "./quartz/util/path"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: Component.Head(),
+  head: Component.Head(),Component.Darkmode(),
   header: [],
   footer: Component.Footer({
     links: {
@@ -19,7 +19,6 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.Darkmode(),
     Component.ContentMeta(),
     Component.TagList(),
     // Component.Divider(),
