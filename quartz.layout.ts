@@ -5,7 +5,6 @@ import { SimpleSlug } from "./quartz/util/path"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  head:Component.Darkmode(),
   header: [],
   footer: Component.Footer({
     links: {
@@ -27,6 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
+    Component.Darkmode(),
     Component.Search(),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Most recent",
