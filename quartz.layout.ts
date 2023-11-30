@@ -19,6 +19,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
+    Component.Darkmode(),
     Component.ContentMeta(),
     Component.TagList(),
     // Component.Divider(),
@@ -27,7 +28,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Most recent",
       limit: 4
