@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: the path to growing
 ---
 
 This is a blank Quartz installation.
