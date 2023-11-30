@@ -5,11 +5,14 @@ import { SimpleSlug } from "./quartz/util/path"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.Search(),
+    Component.Darkmode(),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/SibylYang55",
-      LinkedIn: "www.linkedin.com/in/lily-yang-81ba9218b/",
+      LinkedIn: "https://www.linkedin.com/in/lily-yang-81ba9218b/",
     },
   }),
 }
@@ -21,13 +24,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    // Component.Divider(),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Darkmode(),
-    Component.Search(),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Most recent",
       limit: 4
