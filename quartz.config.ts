@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🦄SIBYLYANG",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "sibylyang55.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -20,22 +20,22 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#F8F8F6",
           lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
+          gray: "#31304D",
+          darkgray: "#161A30",
+          dark: "#161A30",
+          secondary: "#31304D",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
+          light: "#161A30",
           lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
+          gray: "#F0ECE5",
+          darkgray: "#F8F8F6",
+          dark: "#F8F8F6",
+          secondary: "#F0ECE5",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
