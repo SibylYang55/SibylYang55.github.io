@@ -1,7 +1,4 @@
----
-title: 🦄SIBYLYANG
----
 
+![210557ead1ba77b7a9faec5bfd4b2214c7244489bbb06-jRZjrZ_fw1200](https://github.com/SibylYang55/SibylYang55.github.io/assets/121019163/8c25bfcf-aef7-4106-acc6-7501ce37b7d8)
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-![690822477f963a935aa8394eb336f59c26c3e50d1c905d-Ip5FCt](https://github.com/SibylYang55/SibylYang55.github.io/assets/121019163/6d3f83fc-f49f-42f6-98ce-16fe9efee6c9)
