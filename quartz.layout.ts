@@ -6,9 +6,8 @@ import { SimpleSlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [
-    Component.Breadcrumbs(),
-    Component.Search(),
     Component.Darkmode(),
+    Component.Breadcrumbs(),
   ],
   footer: Component.Footer({
     links: {
@@ -27,6 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
+    Component.Search(),
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Most recent",
