@@ -6,7 +6,7 @@ title: WELCOME
 
 I'm Sibyl from China. Now I live in Shenzhen, a city full of innovation and tolerance in the far south of China. I hope to have more in-depth communicate with people, you, to understand the bigger and more beautiful world, differ from cultures and regions.Starting from myself, I create my digital garden here and actively connect with the world and you.
 
-I’m Portuguese and live in Lisbon, Portugal, with my wife and daughter. I work as a product designer in tech, and I identify myself as a creative person. I love arts, designing, sketching and experimenting with expressing feelings, experiences, stories, beliefs, ideas and contributing with useful messages, solutions and inspiration to society.
+I think I am a person with a wide range of interests, such as literature, art, CG illustrations, computers, data related, etc., and like to try more new and interesting things. I will also pay attention to developments in business and management, which are relevant to my work.
 
 Here in this [digital garden](https://www.pmcf.xyz/topo-da-mente/note/digital_garden), I mostly write for myself, exercise cognition, and take notes that may come in handy to generate new ideas. They’re for anyone, including me, to pick up, digest, and create.
 
