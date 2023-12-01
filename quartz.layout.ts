@@ -13,7 +13,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/SibylYang55",
       LinkedIn: "https://www.linkedin.com/in/lily-yang-81ba9218b/",
-      Twitter："https://twitter.com/xiho_yang",
+      Twitter: "https://twitter.com/xiho_yang",
     },
   }),
 }
