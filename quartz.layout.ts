@@ -29,11 +29,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.RecentNotes({
-      title: "Most recent",
-      limit: 4
+      title: "Most Recent",
+      limit: 5
     })),
     Component.DesktopOnly(Component.Explorer({
-      title: "Explore",
+      title: "Explore More",
       useSavedState: true,
       sortFn: (a, b) => {
         if ((!a.file && !b.file) || (a.file && b.file)) {
@@ -65,11 +65,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
     Component.TagList(),
     Component.MobileOnly(Component.RecentNotes({
-      title: "Most recent",
+      title: "Most Recent",
       limit: 5
     })),
     Component.MobileOnly(Component.Explorer({
-      title: "Explore",
+      title: "Explore More",
       useSavedState: true,
       sortFn: (a, b) => {
         if ((!a.file && !b.file) || (a.file && b.file)) {
