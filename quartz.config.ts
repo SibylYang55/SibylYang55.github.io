@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🦄SIBYLYANG",
+    pageTitle: "SIBYLYANG",
     enableSPA: true,
     enablePopovers: false,
     analytics: {
@@ -25,7 +25,7 @@ const config: QuartzConfig = {
           gray: "#8E8F93",
           darkgray: "#666666",
           dark: "#191919",
-          secondary: "#333366",
+          secondary: "#E76C50",
           tertiary: "hsla(218, 100%, 43%, 0.6)",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           gray: "#F0ECE5",
           darkgray: "#F0ECE5",
           dark: "#F8F8F6",
-          secondary: "#FFFFCC",
+          secondary: "#E76C50",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
