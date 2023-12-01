@@ -15,8 +15,8 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "Lexend Zetta",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        body: "Bricolage Grotesque",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           gray: "#F0ECE5",
           darkgray: "#F0ECE5",
           dark: "#F8F8F6",
-          secondary: "#FFFF99",
+          secondary: "#FFFFCC",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
