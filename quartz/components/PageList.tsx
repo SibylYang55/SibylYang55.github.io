@@ -56,18 +56,6 @@ export function PageList({ cfg, fileData, allFiles, limit }: Props) {
                   </a>
                 </h3>
               </div>
-              <ul class="tags">
-                {tags.map((tag) => (
-                  <li>
-                    <a
-                      class="internal tag-link"
-                      href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)}
-                    >
-                      #{tag}
-                    </a>
-                  </li>
-                ))}
-              </ul>
             </div>
           </li>
         )
