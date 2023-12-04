@@ -4,9 +4,9 @@ tags:
 ---
 Many years ago I saw the sea for the first time, and I loved it. 
 
-The blue water sparkled in the sun. I went to the beach, put my hands under the water, let the sun shine.
+The blue water sparkled in the sun. I went to the beach, put my hands under the water, and let the sun shine.
 
-but I only see the blue sea in real life, one day, I thought what the sea look like if it turn to pink, and then I painted this pink one.
+but I only see the blue sea in real life, one day, I thought about what the sea would look like if it turned pink, and then I painted this pink one.
 
 ![image.png](https://raw.githubusercontent.com/SibylYang55/tuchuang/master/img/20231201231732.png)
 
