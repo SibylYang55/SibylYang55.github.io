@@ -6,13 +6,13 @@ I'm Sibyl from China. Now I live in Shenzhen, a city full of innovation and tole
 
 In addition, I often spend a lot of time immersed in my own thinking space without realizing it. Sometimes I can catch these thoughts, but most of them slip away. I hope to try my best to record some valuable thoughts,  and take notes for new ideas. they are for everyone, including me, to pick up, create, and share. 
 
-This digital garden mostly about:
+This digital garden is mostly about:
 
 - [Article](https://sibylyang55.github.io/Article/): Share knowledge and skills in professional fields and other long-term areas of focus...
-- [Note](https://sibylyang55.github.io/Note/): Record things that have a greater impact on my personal development, such as theories, models...
+- [Note](https://sibylyang55.github.io/Note/): Record things that have a greater impact on my personal development, such as theories, and models...
 - [Thought](https://sibylyang55.github.io/Thought/): record essays, comments, insights, inspirations...
 - [S'Life](https://sibylyang55.github.io/S'Life/): Share hobbies, travel, and happy/meaningful things in life...
 
-I hope to have more in-depth communicate with people, you, to understand the bigger and more beautiful world, differ from cultures and regions.Starting from myself, I create my digital garden here and actively connect with the world and you.
+I hope to have more in-depth communication with people, like you, to understand the bigger and more beautiful world, different from cultures and regions. Starting from myself, I create my digital garden here and actively connect with the world and you.
 
 "𝒕𝒐𝒅𝒂𝒚 𝒊𝒔 𝒕𝒉𝒆 𝒔𝒕𝒂𝒓𝒕 𝒐𝒇 𝒂 𝒏𝒆𝒘 𝒃𝒆𝒈𝒊𝒏𝒏𝒊𝒏𝒈," 𝒔𝒉𝒆 𝒘𝒉𝒊𝒔𝒑𝒆𝒓𝒔."𝒊 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒔𝒐𝒇𝒕𝒆𝒓, 𝒊 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒃𝒆𝒕𝒕𝒆𝒓, 𝒊 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒈𝒓𝒆𝒂𝒕𝒆𝒓. "
