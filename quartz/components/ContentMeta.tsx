@@ -10,7 +10,14 @@ export default (() => {
       const { text: timeTaken, words: _words } = readingTime(text)
 
       if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!))
+        //segments.push(formatDate(getDate(cfg, fileData)!))
+        const createdDate = formatDate(getDate(cfg, fileData)!)
+        let modifiedDateSegment = '';
+        if (fileData.frontmatter.modified) {
+            const modifiedDate = formatDate(new Date(fileData.frontmatter.modified));
+            modifiedDateSegment = `, modified on ${modifiedDate}`;
+        }
+        segments.push(`Created on ${createdDate}${modifiedDateSegment}`)
       }
 
       segments.push(timeTaken)
