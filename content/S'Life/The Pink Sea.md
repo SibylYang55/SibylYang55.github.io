@@ -1,6 +1,10 @@
 ---
 tags:
   - "#illustrator"
+title: 
+draft: false
+date: 2023-12-01T23:21:00
+modified:
 ---
 Many years ago I saw the sea for the first time, and I loved it. 
 

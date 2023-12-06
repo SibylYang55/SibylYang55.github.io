@@ -1,5 +1,9 @@
 ---
 title: WELCOME
+tags: 
+draft: false
+date: 2023-12-01T22:03:00
+modified: 2023-12-06T11:20:00
 ---
 ![9f1413ae068c716f019052a716ae5322fedff08cda592-L4OkMb_fw1200](https://github.com/SibylYang55/SibylYang55.github.io/assets/121019163/95904903-8047-4e19-ba92-c5278f29fe7b)
 I'm Sibyl from China. Now I live in Shenzhen, a city full of innovation and tolerance in the far south of China. I think I am a person with a wide range of interests, such as literature, art, CG illustrations, computers, data-related, etc., and I like to try new and interesting things. I will also pay attention to developments in business and management, which are relevant to my work.
