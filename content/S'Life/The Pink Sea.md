@@ -1,7 +1,7 @@
 ---
 tags:
   - "#illustrator"
-title: 
+title: The Pink Sea
 date: 2023-12-01T23:21:00
 ---
 Many years ago I saw the sea for the first time, and I loved it. 
