@@ -1,7 +1,6 @@
 ---
 tags: 
 title: 
-draft: true
 date: 2023-12-03T11:23:00
 modified:
 ---

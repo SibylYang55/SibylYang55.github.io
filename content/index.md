@@ -1,7 +1,6 @@
 ---
 title: WELCOME
 tags: 
-draft: false
 date: 2023-12-01T22:03:00
 modified: 2023-12-06T11:20:00
 ---
