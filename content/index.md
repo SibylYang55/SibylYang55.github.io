@@ -16,5 +16,5 @@ This digital garden is mostly about:
 - [S'Life](https://sibylyang55.github.io/S'Life/): Share hobbies, travel, and happy/meaningful things in life...
 
 I hope to have more in-depth communication with people, like you, to understand the bigger and more beautiful world, different from cultures and regions. Starting from myself, I create my digital garden here and actively connect with the world and you.
-
+[[About Me]]
 "𝒕𝒐𝒅𝒂𝒚 𝒊𝒔 𝒕𝒉𝒆 𝒔𝒕𝒂𝒓𝒕 𝒐𝒇 𝒂 𝒏𝒆𝒘 𝒃𝒆𝒈𝒊𝒏𝒏𝒊𝒏𝒈," 𝒔𝒉𝒆 𝒘𝒉𝒊𝒔𝒑𝒆𝒓𝒔."𝒊 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒔𝒐𝒇𝒕𝒆𝒓, 𝒊 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒃𝒆𝒕𝒕𝒆𝒓, 𝒊 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒈𝒓𝒆𝒂𝒕𝒆𝒓. "
