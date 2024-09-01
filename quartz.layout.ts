@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
       limit: 5
     })),
     Component.DesktopOnly(Component.Explorer({
-      title: "Explore More",
+      title: "Explore More work",
     })),
   ],
   right: [
