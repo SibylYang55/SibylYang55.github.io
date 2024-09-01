@@ -32,9 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Recent Update",
       limit: 5
     })),
-    Component.DesktopOnly(Component.Explorer({
-      title: "Explore More work",
-    })),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.Graph({
@@ -80,7 +78,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.RecentNotes()),
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Recent Update",
+      limit: 8
+    })),
   ],
   right: [
     Component.Graph({
