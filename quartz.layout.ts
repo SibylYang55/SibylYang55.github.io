@@ -32,7 +32,9 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Recent Update",
       limit: 5
     })),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({
+      title: "Explore More",
+    })),
   ],
   right: [
     Component.Graph({
