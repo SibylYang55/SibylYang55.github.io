@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
       limit: 5
     })),
     Component.DesktopOnly(Component.Explorer({
-      title: "Explore More work",
+      title: "Explore More",
     })),
   ],
   right: [
@@ -80,7 +80,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.RecentNotes()),
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Recent Update",
+      limit: 8
+    })),
   ],
   right: [
     Component.Graph({
@@ -93,3 +96,16 @@ export const defaultListPageLayout: PageLayout = {
     }),
   ],
 }
+
+Component.Explorer({
+  sortFn: (a, b) => {
+    if ((!a.file && !b.file) || (a.file && b.file)) {
+      return a.displayName.localeCompare(b.displayName)
+    }
+    if (a.file && !b.file) {
+      return -1
+    } else {
+      return 1
+    }
+  },
+})
