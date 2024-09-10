@@ -3,9 +3,9 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "SIBYLYANG",
+    pageTitle: "* SIBYLYANG *",
     enableSPA: true,
-    enablePopovers: false,
+    enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Lexend Zetta",
+        header: "DM Serif Display",
         body: "Bricolage Grotesque",
         code: "JetBrains Mono",
       },
