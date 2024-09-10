@@ -5,7 +5,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "SIBYLYANG",
     enableSPA: true,
-    enablePopovers: false,
+    enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Lexend Zetta",
-        body: "Bricolage Grotesque",
+        header: "DM Serif Display",
+        body: "Yuanti SC",
         code: "JetBrains Mono",
       },
       colors: {
@@ -23,7 +23,7 @@ const config: QuartzConfig = {
           light: "#FFFFFFF",
           lightgray: "#C3C3C4",
           gray: "#8E8F93",
-          darkgray: "#666666",
+          darkgray: "#333333",
           dark: "#191919",
           secondary: "#E76C50",
           tertiary: "hsla(218, 100%, 43%, 0.6)",
