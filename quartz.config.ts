@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "SIBYLYANG",
+    pageTitle: "* SIBYLYANG *",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "DM Serif Display",
-        body: "Yuanti SC",
+        body: "Bricolage Grotesque",
         code: "JetBrains Mono",
       },
       colors: {
@@ -23,7 +23,7 @@ const config: QuartzConfig = {
           light: "#FFFFFFF",
           lightgray: "#C3C3C4",
           gray: "#8E8F93",
-          darkgray: "#333333",
+          darkgray: "#666666",
           dark: "#191919",
           secondary: "#E76C50",
           tertiary: "hsla(218, 100%, 43%, 0.6)",
