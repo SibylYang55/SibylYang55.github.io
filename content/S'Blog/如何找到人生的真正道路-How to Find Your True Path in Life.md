@@ -1,7 +1,7 @@
-[How to Find Your True Path in Life (ft. Robert Greene) - YouTube](https://www.youtube.com/watch?v=Sqq_iQisoK0&t=190s) 
-**主题**：如何找到人生的真正道路
-**访谈嘉宾**：知名作家罗伯特·格林（Robert Greene），他以分析权力、策略和人类心理见长。
-主要内容：
+[How to Find Your True Path in Life (ft. Robert Greene) - YouTube](https://www.youtube.com/watch?v=Sqq_iQisoK0&t=190s)   
+**主题**：如何找到人生的真正道路  
+**访谈嘉宾**：知名作家罗伯特·格林（Robert Greene），他以分析权力、策略和人类心理见长。  
+主要内容：  
 分享了他关于人生、职业发展和个体成长的一些见解。他强调，找到真正的自我需要对内心深处的愿望和动机有深刻的理解，并且要勇敢地面对人生中的挑战。人生不是一条直线，而是充满了曲折与转折的过程，我们的目标是通过不断试错与探索，找到属于自己的路径。
 - 寻找人生使命： 格林强调，通过深入的自我反省，回顾童年兴趣和天赋，来发现个人的真正使命。他建议关注早期的激情和优势，以识别内在的“纹理”，并与之保持一致。 
 - 彼得·潘综合症：讨论了“彼得·潘综合症”的本质及成因，即成年人逃避责任、拒绝成长的倾向。 
@@ -46,7 +46,7 @@ Robert Greene 的观点很现实，也很残酷——这个世界上，大多数
 你可以问自己——我真正想做的是什么？我愿意为它投入时间、精力，甚至承受失败吗？如果答案是肯定的，那么无论多难，都值得一试。
 
 
-`ROBERT GREENE QUOTES`
+`ROBERT GREENE QUOTES`  
 Sometimes the negative signs in life are just as important as the positive
 ones. What frustrates you, what you hate-those are clues to your true
 path.
@@ -58,7 +58,7 @@ The world is a game, and you're constantly maneuvering. It's the most
 amazing game you could ever play. You should enjoy it.
 
 
-**About Robert Greene**
+**About Robert Greene**  
 关于罗伯特·格林
 
 Robert Greene is the author of the New York Times bestsellers The 48 Laws of Power, The Art of Seduction, The 33 Strategies of War, The 50th Law, Mastery, The Laws of Human Nature, and most recently of The Daily Laws.罗伯特·格林是《纽约时报》畅销书——《权力的 48 条法则》《诱惑的艺术》《战争的 33 种策略》《第 50 条法则》、《精通》、《人性法则》以及最新出版的《每日法则》的作者。
